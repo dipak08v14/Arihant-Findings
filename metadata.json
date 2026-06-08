@@ -1,0 +1,6 @@
+{
+  "name": "Arihant Findings",
+  "description": "Premium B2B Jewellery Findings Manufacturer & Supplier. High-precision findings for bulk jewelry supply.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

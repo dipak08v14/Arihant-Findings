@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@300;400;500;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Cormorant Garamond", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+  
+  --color-brand-emerald: #0A1128; /* Royal Navy Obsidian (Deepest classy dark blue/black) */
+  --color-brand-gold: #4A627A;    /* Dark Platinum Silver Steel (Readability optimized for light backgrounds) */
+  --color-brand-mint: #FBF9F6;    /* Soft Alabaster Linen (Creamy Pearl) */
+  --color-brand-sage: #E3D9D2;    /* Warm Muted Flaxen/Stone Border */
+  --color-brand-glass: rgba(251, 249, 246, 0.85); /* Alabaster Soft Tint Glass */
+  --color-brand-dark: #12100E;    /* Chic Dark Espresso */
+}
+
+
